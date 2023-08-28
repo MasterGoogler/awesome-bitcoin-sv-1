@@ -49,7 +49,6 @@ Bitcoin SV (BSV) is a blockchain that aims to maintain the original vision of Bi
 - [Twetch JavaScript Library](https://github.com/repcomm/twetch-js)
 - An internet archive tool that permanently timestamps and stores web pages and images directly onto bitcoin itself.
 - [PageShot](https://pageshot.bitcoinsv.si/) - Generate image from URL and store it in blockchain.
-- [Codeonchain](http://codeonchain.network/) - Upload a repository to metanet.
 - [PayPresto](https://www.paypresto.co/) - The simplest way to let your users fund data transactions in your BSV app.
 - [Bitcoin SV Lib](https://github.com/moneybutton/bsv) - A pure and powerful JavaScript Bitcoin SV library. A fork of BitPay's bitcore-lib-cash, but for Bitcoin SV only. Maintained by Yours Inc.
 - [bitcoinj-sv](https://gitlab.com/bitcoinj-sv/bitcoinj-sv/) - The bitcoinj-sv library is a Java implementation of the Bitcoin SV protocol. This library is a fork of Mike Hearn's original bitcoinj library aimed at supporting Bitcoin SV.
